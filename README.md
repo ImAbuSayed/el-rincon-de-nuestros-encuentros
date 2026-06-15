@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-rincon-de-nuestros-encuentros/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for El rincón de nuestros encuentros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-rincon-de-nuestros-encuentros/) |
+| **Get License** | [Request Licensing for El rincón de nuestros encuentros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-rincon-de-nuestros-encuentros/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You got that look that stops the room, baby, stepping out the ride
+> The way you move those hips to the bass, there's nowhere left to hide
+> I want to feel you close to me, under the neon glow
+> This is the corner where we meet, the only place we know
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
