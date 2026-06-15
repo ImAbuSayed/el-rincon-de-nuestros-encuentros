@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-rincon-de-nuestros-encuentros/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for El rincón de nuestros encuentros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-rincon-de-nuestros-encuentros/) |
+| **Get License** | [Music Rights & Licensing for El rincón de nuestros encuentros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-rincon-de-nuestros-encuentros/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1808695ced428b68f174b33ca7a66c446282a01672c1bf94b53237f9af8003d5` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
